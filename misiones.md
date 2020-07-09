@@ -1,2 +1,3 @@
 # misiones
 * investigacion
+* captura
